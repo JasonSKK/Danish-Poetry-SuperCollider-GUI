@@ -1,3 +1,5 @@
+Apr. 2020
+
 1) Dowload_SuperCollider(LatestVersion-X32, X64) 
 From Here	: https://supercollider.github.io/download
 
